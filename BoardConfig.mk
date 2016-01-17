@@ -14,6 +14,8 @@
 
 include device/sony/shinano/PlatformConfig.mk
 
+TARGET_SPECIFIC_HEADER_PATH += device/sony/sirius/include
+
 TARGET_BOOTLOADER_BOARD_NAME := D6503
 
 #Reserve space for data encryption (12656259072-16384)
