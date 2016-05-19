@@ -7,8 +7,8 @@
     },
     {
         "account":      "SonyCM",
-        "repository":   "device-sony-kitakami",
-        "target_path":  "device/sony/kitakami",
+        "repository":   "device-sony-shinano",
+        "target_path":  "device/sony/shinano",
         "revision":     "cm-13.0"
     },
     {
