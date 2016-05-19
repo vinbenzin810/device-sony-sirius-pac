@@ -1,0 +1,74 @@
+[
+    {
+        "account":      "Vinbenzin810",
+        "repository":   "device-sony-sirius-pac",
+        "target_path":  "device/sony/sirius",
+        "revision":     "pac"
+    },
+    {
+        "account":      "SonyCM",
+        "repository":   "device-sony-kitakami",
+        "target_path":  "device/sony/kitakami",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account":      "SonyCM",
+        "repository":   "device-sony-common",
+        "target_path":  "device/sony/common",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account":      "CyanogenMod",
+        "repository":   "android_device_qcom_common",
+        "target_path":  "device/qcom/common",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "kernel",
+        "target_path":  "kernel/sony/msm",
+        "revision":     "aosp/LA.BF64.1.2.2_rb4.7"
+    },
+    {
+        "account":      "Rcstar6696",
+        "repository":   "vendor-sony-blobs",
+        "target_path":  "vendor",
+        "revision":     "master-dev"
+    },
+    {
+        "account":      "Rcstar6696",
+        "repository":   "vendor-qcom-proprietary",
+        "target_path":  "vendor/qcom",
+        "revision":     "master-dev"
+    },
+    {
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_sony_thermanager",
+        "target_path":  "hardware/sony/thermanager",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_sony_timekeep",
+        "target_path":  "hardware/sony/timekeep",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_sony_macaddrsetup",
+        "target_path":  "hardware/sony/macaddrsetup",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account" : "CyanogenMod",
+        "repository": "android_hardware_sony_camera",
+        "target_path": "hardware/sony/camera",
+        "revision": "cm-13.0"
+    },
+    {
+        "account" : "SonyCM",
+        "repository": "android_hardware_sony_init",
+        "target_path": "hardware/sony/init",
+        "revision": "cm-13.0"
+    }
+]
