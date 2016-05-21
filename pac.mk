@@ -27,6 +27,9 @@ $(call inherit-product, vendor/pac/config/common_full_phone.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/pac/config/nfc_enhanced.mk)
 
+# Inherit TWRP requirements
+$(call inherit-product, device/sony/sirius/twrp.mk)
+
 # Boot animation
 PAC_BOOTANIMATION_NAME := 1080
 
