@@ -15,6 +15,8 @@
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/sony/msm
 TARGET_KERNEL_CONFIG := aosp_shinano_sirius_defconfig
+SONY_BF64_KERNEL_VARIANT := true
+  
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, device/sony/sirius/device.mk)
