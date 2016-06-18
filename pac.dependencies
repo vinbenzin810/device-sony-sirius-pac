@@ -70,5 +70,17 @@
         "repository": "android_hardware_sony_init",
         "target_path": "hardware/sony/init",
         "revision": "cm-13.0"
+    },
+    {
+        "account" : "CyanogenMod",
+        "repository": "android_hardware_qcom_media",
+        "target_path": "hardware/qcom/media-caf/sony",
+        "revision": "cm-13.0-sony"
+    },
+    {
+        "account" : "CyanogenMod",
+        "repository": "android_hardware_qcom_display",
+        "target_path": "hardware/qcom/display-caf/sony",
+        "revision": "cm-13.0-sony"
     }
 ]
